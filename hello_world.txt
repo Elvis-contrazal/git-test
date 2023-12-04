@@ -1,0 +1,3 @@
+Type git commit -m "Add hello_world.txt" and then type git status once more. The output should now say: “nothing to commit, working tree clean”, indicating your changes have been committed. Don’t worry if you get a message that says “upstream is gone”. This is normal and only shows when your cloned repository currently has no branches. It will be resolved once you have followed the rest of the steps in this project.
+
+The message, “Your branch is ahead of ‘origin/main’ by 1 commit” just means that you now have newer snapshots than what is on your remote repository. You will be uploading your snapshots further down in this
